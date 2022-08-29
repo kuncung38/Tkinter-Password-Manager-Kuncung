@@ -1,0 +1,36 @@
+{
+    "amazon": {
+        "1": {
+            "user_id": "kuncung1",
+            "password": "4qO#)lP86tYoQ7jD"
+        }
+    },
+    "bca": {
+        "1": {
+            "user_id": "second account",
+            "password": "8sYaUnJ4sE7uK#*3$)"
+        }
+    },
+    "charlie": {
+        "1": {
+            "user_id": "charlietst",
+            "password": "!pP2uT2#yWsPjT3&5"
+        }
+    },
+    "discord": {
+        "1": {
+            "user_id": "masabodo",
+            "password": "4oDhSdK1!fK#kJ"
+        }
+    },
+    "gmail": {
+        "1": {
+            "user_id": "kuncung@gmail.com",
+            "password": "4#6zN+#aCsN!sV"
+        },
+        "2": {
+            "user_id": "SecondAccount@gmail.com",
+            "password": "#$aXyK1tO2sJlT&7"
+        }
+    }
+}
